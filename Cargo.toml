@@ -1,0 +1,8 @@
+[package]
+name="rust-test"
+version="0.0.1"
+authors=["synappsio", "vwiart"]
+
+[[bin]]
+name = "printable"
+path = "printable.rs"
